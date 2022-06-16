@@ -1,0 +1,259 @@
+*{  margin: 0;
+    padding: 0;
+}
+
+
+
+
+
+
+
+
+#footer{
+   width: 100%;
+   height: 720px;
+   background-color: black;
+   color: white;
+   font-weight: bold;
+   
+}
+
+#div1{
+   margin: auto;
+   width: 150px;
+   height: 80px;
+   background-color: black;
+   justify-content: center;
+   margin-right: 710px;
+  
+  
+   
+}
+
+#div1>img{
+   height: 60px;
+   width: 250px;
+   background-color: rgb(13, 4, 4);
+  
+}
+
+#div2{
+   height: 20px;
+   width: 200px;
+   margin: auto;
+   display: flex;
+   background-color: black;
+   padding-left: 50px;
+   margin-left: 580px;
+   
+}
+
+#div2>img{
+   width: 20px;
+   height: 20px;
+   margin-right: 11px;
+   background-color: black;
+   
+}
+
+#div3{
+   width: 60%;
+   height: 50px;
+   margin-left: 100px;
+   margin-top: 30px;
+   display: flex;
+   background-color: black;
+   padding-left: 50px;
+   
+}
+
+#div3>div:first-child{
+   /* justify-content: flex-start; */
+   background-color: black;
+   padding-left: 50px;
+}
+
+#div3>div:last-child{
+   /* justify-content: flex-end; */
+   margin-left: 500px;
+   background-color: black;
+   /* padding-left: 50px; */
+}
+
+#div4{
+   width:60%;
+   height: 60px;
+   margin-left: 100px;
+   margin-top: 5px;
+   display: flex;
+   background-color: black;
+   padding-left: 50px;
+   justify-content: space-between;
+   margin-right: 50px;
+}
+
+#div4>input{
+   background-color: black;
+   color: white;
+   font-size: 15px;
+   border: none;
+   width: 260px;
+   height: 60px;
+   padding-left: 50px;
+}
+
+#div4>button{
+   background-color: deeppink;
+   color: white;
+   border: deeppink;
+   width: 93.38px;
+   height: 40px;
+   border-radius: 7px;
+   margin-top: 20px;
+   padding-left: 20px;
+   padding-right: 20px;
+   margin-left: 25px;
+   
+}
+
+#div4>div{
+   width: 206px;
+   height: 48px;
+   color: gray;
+   margin-left: 200px;
+   margin-top: 7px;
+   background-color: black;
+   
+}
+
+#div4>img:nth-child(4){
+   width: 99.83px;
+   height:30px ;
+   margin-top: 4px;
+   margin-right: 8px;
+   background-color: black;
+   padding-left: 50px;
+   margin-left: 130px;
+}
+
+#div4>img:nth-child(5){
+   width: 87.58px;
+   height:30px ;
+   margin-top: 4px;
+   background-color: black;
+   padding-left: 50px;
+   margin-left: 50px;
+}
+
+#hr{
+   margin-left: 100px;
+   width: 260px;
+   background-color: black;
+   padding-left: 50px;
+}
+
+#div5,#div7{
+   width: 60%;
+   height: 20.39px;
+   font-size: 17px;
+   margin: 0px 0px 8px;
+   margin-top: 30px;
+   margin-left: 100px;
+   background-color: black;
+   padding-left: 50px;
+}
+
+#div6{
+   width: 60%;
+   height: 24px;
+   font-size: 16px;
+   margin: 0px 0px 8px;
+   margin-top: 15px;
+   margin-left: 100px;
+   display: flex;
+   color: gray;
+   background-color: black;
+   padding-left: 50px;
+}
+
+#div6>div{
+   margin-right: 90px;
+   background-color: black;
+   padding-left: 50px;
+}
+#div8{
+   width: 60%;
+   height: 90px;
+   margin-left: 10px;
+   margin-top: 20px;
+   display: flex;
+   color: white;
+   background-color: black;
+   margin-left: 50px;
+   padding-left: 50px;
+}
+#cate1{
+   color: gray;
+   padding-top: 5px;
+   background-color: black;
+   padding-left: 70px;
+}
+#cate1n{
+    color:blue;
+    padding-left: 30px;
+    padding-left: 50px;
+}
+#cate2{
+   color: gray;
+   font-size: 13px;
+   padding-top: 5px;
+   background-color: black;
+   
+}
+#parentdiv81{
+   display: flex;
+   background-color: black;
+}
+#parentdiv81>img{
+   width: 15px;
+   height: 15px;
+   background-color: black;
+}
+#div8>div{
+   margin-right: 60px;
+   background-color: black;
+}
+#hr2{
+   margin-left: 70px;
+   margin-right: 40px;
+   margin-top: 30px;
+   background-color: black;
+}
+#div9{
+   width: 60%;
+   height: 20.39px;
+   font-size: 17px;
+   margin: auto;
+   margin-top: 30px;
+   margin-left: 500px;
+   background-color: black;
+}
+#social_media {
+   height: 50%;
+   width: 20%;
+   margin-top: 1%;
+   color: white;
+   display: flex;
+   gap: 10px;
+   align-items:center;
+}
+#social_media > :hover {
+   background-color: peru;
+   margin: auto;
+}
+i {
+   color: white;
+   margin-top: 25px;
+   font-size: 18px;
+   align-items: center;
+}
